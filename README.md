@@ -1,4 +1,1 @@
-# wp-learnxt
-Learnxt Quezon City 
-
-#####
+## learnxt Quezon City 
